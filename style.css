@@ -1,0 +1,94 @@
+    body{
+    padding:50px 200px;
+    font-family: 'Montserrat', sans-serif;
+}
+a {
+    text-decoration: none;
+    color: #12335c;
+}
+p {
+    margin-bottom: 50px;
+    color: #12335c;
+    font-weight: 900;
+    line-height: 28px;
+
+}
+header div{
+    position: absolute;
+    top: 50px;
+    left: 200px;
+}
+header div p {
+    display: inline-block;
+    padding-left: 8px;
+}
+header div img {
+    position: relative;
+    top: 4px;
+}
+header nav{
+    position: absolute;
+    top: 50px;
+    right: 200px;
+}
+header nav ul {
+    list-style: none;
+}
+header nav ul li{
+   display: inline-block;
+   padding-left: 16px;
+   font-weight: 900;
+}
+main{
+    position: relative;
+    top: 100px;
+}
+.left{
+    float: left;
+    width: 40%
+}
+.Right{
+    float: right;
+    width: 60%;
+}
+.Right img {
+    width: 100%;
+}
+button {
+    background:cyan;
+    color: white;
+    border: none;
+    height: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 50px;
+    position: absolute;
+    right: -3px;
+    font-size: 20px;
+
+}
+input{
+    border: none;
+    background: transparent;
+    height: 50px;
+    width: 140px;
+    border-radius: 60px;
+    padding-left: 16px;
+    font-size: 21px;
+}
+form {
+    border: 2px solid cyan;
+    border-radius: 50px;
+    position: relative;
+    height: 50px;
+    max-width: 300px;
+}
+h1 {
+    margin-bottom: 100px;
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 60px;
+    color: #12335c;
+}
+
+
